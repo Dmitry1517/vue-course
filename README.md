@@ -1,1 +1,1 @@
-# vue-course-2024
+# vue-ts
